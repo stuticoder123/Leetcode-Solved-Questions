@@ -82,7 +82,7 @@ class Solution:
         else:  # If odd → median = middle value
             return curr * 1.0
 
-#Approach 3 : Binary Search Partioning [ Time Complexity : O(log(min(m, n))) ; Space  Complexity : O(1) ] 
+#Approach 3 : Binary Search Partitioning [ Time Complexity : O(log(min(m, n))) ; Space  Complexity : O(1) ] 
 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 :-
 class Solution:
     def findMedianSortedArrays(self, nums1, nums2):
