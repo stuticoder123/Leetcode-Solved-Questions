@@ -55,7 +55,7 @@ Now we are diving into the 𝐓𝐰𝐨 𝐏𝐨𝐢𝐧𝐭𝐞𝐫 𝐌𝐞�
 ✅ It avoids full sorting
 ✅ It tracks only up to the median
 ✅ It works in O(m + n) time
-#Approach 2 : 𝐓𝐰𝐨 𝐏𝐨𝐢𝐧𝐭𝐞𝐫 𝐌𝐞𝐫𝐠𝐞 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐒𝐨𝐫𝐭𝐢𝐧𝐠 [ Time Complexity : O(1) ; Space Complexity : O(m+n) ]
+#Approach 2 : 𝐓𝐰𝐨 𝐏𝐨𝐢𝐧𝐭𝐞𝐫 𝐌𝐞𝐫𝐠𝐞 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐒𝐨𝐫𝐭𝐢𝐧𝐠 [ Time Complexity : O(m+n) ; Space Complexity : O(1) ]
 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 :-
 class Solution:
     def findMedianSortedArrays(self, nums1, nums2): #self	refers to the current instance of the class (W/o self errors will definitely come )
